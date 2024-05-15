@@ -1,0 +1,4 @@
+cd existing_repo
+git remote add origin https://git.bootcampcontent.com/Columbia-University/CU-VIRT-FSF-FT-05-2024-U-LOLC.git
+git branch -M main
+git push -uf origin main
